@@ -71,10 +71,6 @@ Turn on the runs you want and Pandemonium does them in order, one game after ano
 
 ### 🎛️ Control Panel
 
-<div align="center">
-<img src="docs/panel.png" width="420" alt="Pandemonium control panel" />
-</div>
-
 - 🖥️ **Docks next to the game** automatically.
 - 📊 **Live counters.** Runs, time and status at a glance.
 - 📜 **Activity feed** showing what the bot is doing right now.
