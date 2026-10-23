@@ -15,7 +15,7 @@
 
 [**⬇️ Download**](../../releases/latest) · [**✨ Features**](#-features) · [**🚀 Quick Start**](#-quick-start) · [**❓ FAQ**](#-faq)
 
-<img src="docs/demo.gif" width="800" alt="Pandemonium in action" />
+<img src="demo.gif" width="800" alt="Pandemonium in action" />
 
 </div>
 
