@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/pandemonium.ico" width="96" alt="Pandemonium" />
+<img src="pandemonium.ico" width="96" alt="Pandemonium" />
 
 # Pandemonium
 
