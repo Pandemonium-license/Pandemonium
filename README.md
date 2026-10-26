@@ -136,8 +136,6 @@ Press **`=`** at any time. Any held keys or mouse buttons are released.
 
 <div align="center">
 
-**Questions or support:** `pandemonium-license@proton.me`
-
 <sub>Read <a href="DISCLAIMER.md">DISCLAIMER.md</a> before use. Not affiliated with Blizzard Entertainment or Project Diablo II.</sub>
 
 </div>
